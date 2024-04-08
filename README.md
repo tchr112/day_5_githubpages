@@ -16,11 +16,11 @@ I hold a degree in Computer Science with a focus on data analytics.
 
 **Projects** 
 
-1. **Wordle-Ladder** /FILL/
+1. **Wordle-Ladder** 
    
-3. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
+3. **SQL Database Design** Created a SQL database in Python using sqlite3
 
-4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+4. **Front-end Fisplay for SQL Database**  Used Flask to create a front end to a database for a fictional Movie hosting website
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tzvetigithub@gmail.com](mailto:tzvetigithub@gmail.com)

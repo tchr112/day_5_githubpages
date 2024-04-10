@@ -9,7 +9,6 @@ Software Developer | Data Analyst | Lifelong Learner
 
 **About Me** 🎓 
 
-I hold a degree in Computer Science with a focus on data analytics. 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
